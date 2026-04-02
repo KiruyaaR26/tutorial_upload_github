@@ -1,8 +1,9 @@
 ## Buka Github kalian di browser yang kalian gunakan
 
 ## Lalu klik icon profil yang ada di sebelah pojok kanan atas 
-
 ## Pilih opsi "Organizations" 
+
+<img src="1.jpg" alt="Description" width="500" height="300">
 
 ## Pilih "worker-sentinel"
 
